@@ -25,7 +25,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: 'https://github.com/bunny66/resume'
+      url: 'https://bunny66.github.io/Resume/'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
